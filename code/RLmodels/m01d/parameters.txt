@@ -1,0 +1,2 @@
+alpha1	nu	beta1	beta2	beta3
+1	1	1	1	1
